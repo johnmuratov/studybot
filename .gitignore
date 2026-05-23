@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Env
+.env
+
+# DB
+*.sqlite3
+
+# IDE
+.vscode/
